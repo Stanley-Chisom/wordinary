@@ -1,0 +1,2 @@
+# wordinary
+A dictionary application
